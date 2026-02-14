@@ -1,0 +1,36 @@
+# Requirements for MPC Robotics Framework
+
+# Core dependencies
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+casadi>=3.6.0
+torch>=2.0.0
+pandas>=2.0.0
+pyyaml>=6.0
+
+# Optional dependencies for advanced features
+# Uncomment as needed:
+
+# Interactive visualization
+# plotly>=5.0.0
+# streamlit>=1.25.0
+# gradio>=3.0.0
+
+# Development tools
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=23.0.0
+# ruff>=0.1.0
+# mypy>=1.0.0
+# pre-commit>=3.0.0
+
+# Documentation
+# sphinx>=6.0.0
+# sphinx-rtd-theme>=1.2.0
+# myst-parser>=1.0.0
+
+# Additional robotics libraries (optional)
+# pinocchio>=2.6.0  # For advanced kinematics
+# opencv-python>=4.8.0  # For computer vision
+# open3d>=0.17.0  # For 3D processing
